@@ -24,3 +24,6 @@ This page contains all the examples you need to start sending messages with Bail
 
 
 ## note about disappearing mode (ephemeralExpiration)
+
+
+Nothing is working in this what the heck man
